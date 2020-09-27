@@ -1,0 +1,25 @@
+{
+  "name": "gaubhoomi",
+  "version": "1.0.0",
+  "description": "e commerce web app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shikha-dhanavantri/gaubhoomi.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "acharyks90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shikha-dhanavantri/gaubhoomi/issues"
+  },
+  "homepage": "https://github.com/Shikha-dhanavantri/gaubhoomi#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
